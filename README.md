@@ -1,4 +1,6 @@
-# responsive_website-wartegin
+# responsive_website-wartegin  
+![This is an image](/img/repository-open-graph-template.png)  
+
   Copyright © 2022  
   Develop by **Farhan Yuswa Biyanto** and **Muhammad Dzakiyyudin**.   
   
