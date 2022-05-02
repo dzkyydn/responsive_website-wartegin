@@ -2,7 +2,7 @@
   Copyright © 2022  
   Develop by **Farhan Yuswa Biyanto** and **Muhammad Dzakiyyudin**.   
   
-  Demo? [wartegin website demo](https://dzkyydn.github.io/responsive_website-wartegin/)
+  Demo? [wartegin website demo](https://dzkyydn.github.io/responsive_website-wartegin/)  
     
   > Pemrograman Berbasis Web,    
   > Broadband Multimedia,    
